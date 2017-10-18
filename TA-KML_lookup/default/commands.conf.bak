@@ -1,0 +1,14 @@
+[kmllookup]
+filename = kml_lookup.py
+supports_getinfo = false 
+supports_rawargs = true 
+streaming = false
+enableheader = true
+retainsevents = false
+changes_colorder = true
+overrides_timeorder = false
+outputheader = true
+generating = true 
+run_in_preview = true
+maxinputs = 10000
+generates_timeorder = false
